@@ -1,1 +1,3 @@
 # thesisCode
+
+This repository will house the code for my senior thesis at Reed. The goal of the project is to apply topic models (specifically LDA) to a body of political speeches that I have gathered, making it possible to track changes in topic-distributions over time for political candidates. This analysis will be combined with poll data allowing me to analyze the influence of the topic-makeup of candidates' political speeches on their polling results. Finally, I plan to analyze this relationship under a consumption framework, examining not only the shape of voters' preferences for political speech, but also whether or not voters' preferences for political speech are internally consistent. 
